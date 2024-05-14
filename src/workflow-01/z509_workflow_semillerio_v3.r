@@ -385,7 +385,3 @@ corrida_baseline_semillerio_202109( "basem01_12" )
 
 corrida_baseline_semillerio_202107( "basem02_12" )
 
-## Sabía que no eran de ninguna forma elecciones óptimas 
-## de la bayesiana ni del undersampling, entre otras cosas,
-## pero fue un último intento a pocas horas del final 
-## y luego de tener problemas con las máquinas anteriores.
